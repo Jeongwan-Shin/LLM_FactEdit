@@ -1,0 +1,1 @@
+python inference.py --data_type nq  --n_gpu 1 --search_url http://210.117.181.17:8899/ --model_name meta-llama/Llama-2-7b-hf --model_download_dir /root/nas_yh/huggingface_model_load --model_size 7 
